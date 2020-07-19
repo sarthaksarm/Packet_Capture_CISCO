@@ -1,7 +1,7 @@
 # Packet_Capture_CISCO
 
 This project is a Packet Capture Analyzer. Depending upon the values of fields, captured packet have, 
-it generates the output as HTML file with the plot of graph for Time vs Packet Length field. It uses tshark, the command line version of wireshark as well.
+it generates the output as HTML file with the plot of graph for Number vs Packet Length field. It has also tshark, the command line version of wireshark, while development.
 
 <h3>COMPILING AND RUN</h3>
 1. Install wireshark wireshark software from https://www.wireshark.org/download.html <Br>
